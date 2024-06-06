@@ -1,0 +1,16 @@
+<doctype html>
+<html lang="pt-br">
+<head>
+<Meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Rebecca links </title>
+</head>
+<body>
+<img src="ourovv.png" alt=".">
+<a href="pag2.html" rel="next" target="_self">Para a proxima pagina</a>
+<h1>Bem vindo a minha primeira pagina, meu nome é Rebecca Regina Cesar de Lima </h1>
+<p>Essa pagina so e um teste clique no link acima!!</p>
+<p>pode ver videos e fotos escolhdas por especialistas na area do YouTube </p>
+<a href="ourovv.png" download="ourovv.png" type="aplication/img>download</a>
+</body>
+    </html>
